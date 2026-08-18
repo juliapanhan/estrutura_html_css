@@ -1,2 +1,13 @@
 # Estrutura HTML5 CSS3
-Estrutura básica de HTML5 e CSS3
+Professor: Jansen K Cara
+Turma: DS1A
+Aluna: Julia Panhan Oliveira
+
+### Objetivo
+Desenvolver o nosso conhecimento de HTML e CSS
+
+
+### Tecnologias
+- Visual Code
+- Git
+- Live Server
