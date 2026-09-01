@@ -12,9 +12,7 @@ Desenvolver o nosso conhecimento sw HTML e CSS
 
 * Visual Code
 * Git
-* Live Server !DOCTYPE html>
-
-<title>Document</title>
+* Live Server
 
 # A melhor turma é a DS1A
 
@@ -30,6 +28,6 @@ Desenvolver o nosso conhecimento sw HTML e CSS
 ## Sobre mim
 
 
-Olá! Meu nome é Julia Panhan, e sou uma estudante de CSS e HTML
+Olá! Meu nome é Julia Panhan, e sou uma estudante que CSS e HTML
 
 &copy; 2026 Julia Panhan. Todos os direitos reservados
