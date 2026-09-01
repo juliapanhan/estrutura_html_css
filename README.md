@@ -30,6 +30,6 @@ Desenvolver o nosso conhecimento sw HTML e CSS
 ## Sobre mim
 
 
-Olá! Meu nome é Jansen, e sou um estudante que CSS e HTML
+Olá! Meu nome é Julia Panhan, e sou uma estudante de CSS e HTML
 
-&copy; 2026 Jansen. Todos os direitos reservados
+&copy; 2026 Julia Panhan. Todos os direitos reservados
