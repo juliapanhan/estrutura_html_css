@@ -1,7 +1,7 @@
 ## Estrutura Básica de HTML5 e CSS3
 professor: Jansen K Cara
 Turma: DS1A
-Aluno:  Nome do aluno
+Aluno:  Julia Panhan
 
 ### Objetivo
 Desenvolver o nosso conhecimento sw HTML e CSS
